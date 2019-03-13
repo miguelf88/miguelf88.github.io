@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miguel A. Fernandez
-subtitle: Professional Portfolio
+subtitle: Transportation Planner/GIS Specialist
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
@@ -49,8 +49,8 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url: <a href = "https://www.linkedin.com/in/miguel-fernandez-246156155/" target = "_blank">LinkedIn</a>
-github_url: <a href = "https://github.com/miguelf88" target = "_blank">GitHub</a>
+linkedin_url: https://www.linkedin.com/in/miguel-fernandez-246156155/
+github_url: https://github.com/miguelf88
 pinterest_url:
 slack_url:
 dribbble_url:
