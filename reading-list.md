@@ -1,22 +1,20 @@
 ---
 title: Reading List
-subtitle: a list of books I read
+subtitle: 
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I enjoy reading books in my spare time. Here's a list of some of my favorite I've read recently in no particular order.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
-
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+1. Good Wives, Nasty Wenches, & Anxious Patriarchs - Kathleen M. Brown
+2. The Many-Headed Hydra - Peter Linebaugh and Marcus Rediker
+3. In Pursuit of Privilege - Clifton Hood
+4. Confederate Reckoning - Stephanie McCurry
+5. New York Burning - Jill Lepore
+6. Thomas Jefferson & the Stony Mountains - Donald Jackson
+7. Only One Man Died - E. G. Chuinard
+8. Lewis and Clark Among the Indians - James Ronda
+9. Good Wives - Laurel Thatcher Ulrich
+10. The Impending Crisis - David M. Potter
