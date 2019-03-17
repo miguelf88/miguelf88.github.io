@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-I enjoy reading books in my spare time. Here's a list of some of my favorite I've read recently in no particular order.
+I enjoy reading books when I can find the time. Here's a list of some of my favorite I've read over the last few years in no particular order.
 
 1. Good Wives, Nasty Wenches, & Anxious Patriarchs - Kathleen M. Brown
 2. The Many-Headed Hydra - Peter Linebaugh and Marcus Rediker
