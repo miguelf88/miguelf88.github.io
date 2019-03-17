@@ -2,7 +2,7 @@
 title: Course List
 subtitle: 
 layout: "page"
-icon: fa-university
+icon: fa-list-alt
 order: 4
 ---
 
