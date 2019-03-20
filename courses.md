@@ -8,5 +8,5 @@ order: 4
 
 To satisfy my thirst for knowledge and always wanting to do more, this is a list of coures I've taken outside of my formal education:
 
-Microsoft Excel - Excel from Beginner to Advanced, Udemy
-Complete Python Bootcamp, Udemy - In Progress
+1. Microsoft Excel - Excel from Beginner to Advanced, Udemy
+2. Complete Python Bootcamp, Udemy - In Progress
