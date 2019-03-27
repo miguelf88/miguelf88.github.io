@@ -3,7 +3,7 @@ title: Reading List
 subtitle: 
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 
 I enjoy reading books when I can find the time. Here's a list of some of my favorite I've read over the last few years in no particular order.
