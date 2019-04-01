@@ -3,5 +3,6 @@
 
 .img_float {
   float: right;
+  clear: right;
   padding: 5px;
 }
