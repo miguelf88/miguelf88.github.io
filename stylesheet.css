@@ -1,7 +1,7 @@
 /*Miguel Fernandez*/
 /*Stylesheet for new pages*/
 
-#label_img {
+.img_float {
   float: right;
   padding: 5px;
 }
