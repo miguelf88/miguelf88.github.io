@@ -4,5 +4,7 @@
 .img_float {
   float: right;
   clear: right;
+  margin-left: 5px;
+  margin-bottom: 5px;
   padding: 5px;
 }
