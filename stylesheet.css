@@ -8,7 +8,7 @@
   padding: 5px;
 }
 
-article p {
+.body {
   float: left;
   clear: right;   
 }
