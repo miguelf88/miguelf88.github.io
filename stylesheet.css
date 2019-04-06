@@ -8,6 +8,7 @@
   padding: 5px;
 }
 
-.body {
+article p {
+  float: left;
   clear: right;   
 }
