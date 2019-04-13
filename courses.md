@@ -10,3 +10,4 @@ To satisfy my thirst for knowledge and always wanting to do more, this is a list
 
 • Microsoft Excel - Excel from Beginner to Advanced, Udemy                                                                   
 • Complete Python Bootcamp, Udemy
+• Python for Data Science and Machine Learning, Udemy
