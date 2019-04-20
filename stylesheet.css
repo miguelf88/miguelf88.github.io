@@ -1,24 +1,24 @@
 /*Miguel Fernandez*/
 /*Stylesheet for new pages*/
+<style>
+  #container {
+    margin: auto;
+    margin-top: 2em;
+    width: 400px;
+    border: 1px solid;
+    padding: 8px;
+  }
 
-#container {
-  margin: auto;
-  margin-top: 2em;
-  width: 400px;
-  border: 1px solid;
-  padding: 8px;
-}
+  img {
+    display: block;
+    margin-left: 4px; 
+    margin-bottom: 4px;
+    float: right;
+    clear: right;
+  }
 
-img {
-  display: block;
-  margin-left: 4px; 
-  margin-bottom: 4px;
-  float: right;
-  clear: right;
-}
-
-a:hover {
-  color: red;
-  text-decoration: underline;
-}
-
+  a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+</style>
