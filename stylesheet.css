@@ -10,7 +10,7 @@
 }
 
 img {
-  display: inline-block;
+  display: block;
   margin-left: 4px; 
   margin-bottom: 4px;
   float: right;
