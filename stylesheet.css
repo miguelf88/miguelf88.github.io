@@ -1,14 +1,20 @@
 /*Miguel Fernandez*/
 /*Stylesheet for new pages*/
 
-.img_float {
-  float: left;
-  margin-left: 5px;
-  margin-bottom: 5px;
-  padding: 5px;
+#container {
+  margin: auto;
+  margin-top: 2em;
+  width: 400px;
+  border: 1px solid;
+  padding: 8px;
 }
-.desc {
-  clear: right;  
+
+img {
+  display: inline-block;
+  margin-left: 4px; 
+  margin-bottom: 4px;
+  float: right;
+  clear: right;
 }
 
 a:hover {
