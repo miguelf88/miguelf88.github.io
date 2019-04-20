@@ -10,6 +10,7 @@
 }
 
 img {
+  display: inline-block;
   margin-left: 4px; 
   margin-bottom: 4px;
   float: right;
