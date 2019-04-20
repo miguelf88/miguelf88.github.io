@@ -22,6 +22,10 @@
     float: left;  
   }  
 
+  .pdf_doc {
+    padding: 30px;
+  }
+
   a:hover {
     color: red;
     text-decoration: underline;
