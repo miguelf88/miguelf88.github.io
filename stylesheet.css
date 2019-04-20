@@ -18,6 +18,10 @@
     width: 100%;
   }
 
+  .p_left {
+    float: left;  
+  }  
+
   a:hover {
     color: red;
     text-decoration: underline;
