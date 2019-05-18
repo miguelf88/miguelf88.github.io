@@ -8,19 +8,28 @@ hide: true
 ---
 
 <p>
-        For a transit agency, a market area represents the geographic location that could access their service. This project 
+        For a transit agency, a market area represents the geographic location from which passengers could access their service. This project 
         required me to delineate the market areas for PART. A Park &amp; Ride survey completed in mid-2018 helped me accomplish 
-        this. Using a <a href="http://geoservices.tamu.edu/Services/Geocode/" target = "_blank">free geocoder</a> from Texas A&amp;M University, 
-        I mapped the home location of PART's passengers who completed the survey. I then calculated the Euclidean distance from each 
+        this task. Using a <a href="http://geoservices.tamu.edu/Services/Geocode/" target = "_blank">free geocoder</a> from Texas A&amp;M University, 
+        I plotted the home location of PART's passengers who completed the survey. I then calculated the Euclidean distance from each 
         home to the corresponding park &amp; ride lot. Using the interquartile range method, I removed outliers from the dataset.
 </p>
 <p>
-        I located tables from the 2013-2017 5-year estimates of the American Community Survey using 
+        We wanted to analyze the demographics of the market areas. For this, I located tables from the 2013-2017 5-year estimates of the American Community Survey using 
         <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">American Fact Finder</a>.
-        The tables were joined to a block group level geography from 
+        Once the appropriate tables were found, they were joined to a block group level geography from 
         <a href="https://www.census.gov/programs-surveys/geography/geographies/mapping-files.html" target="_blank">TIGER/Line shapefiles</a>
-        using the GEOID as the field to join on.
+        using the GEOID as the field to join on. I created a new field in the dataset which I called "census_area". Using the
+        field calculator I populated the new field with values from the "Shape_Area" field. This would allow me to calculate 
+        new values for the block groups once I performed an intersect.
 </p>
+<p>
+        Using the market areas feature class and the block group Census data as inputs, I performed an 
+        <a href="https://pro.arcgis.com/en/pro-app/tool-reference/analysis/intersect.htm" target="_blank">intersect</a>. 
+        The output from this tool is a new feature class containing the Census block groups that are within the boundaries of the PART market areas.
+        I added new fields to this feature class where new values for population, number of households, minority population, and 
+        population in poverty, as well as other demographics would be calculated. 
+</p>        
 
 <iframe width="100%" height="800px" 
         src="https://part-nc.maps.arcgis.com/apps/MapSeries/index.html?appid=82acd7276e5d4abb8064ec306d1cdae0"></iframe>
