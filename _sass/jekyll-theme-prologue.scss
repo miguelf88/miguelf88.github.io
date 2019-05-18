@@ -58,9 +58,6 @@
 	));
 
 /* Basic */
-	.p_left {
-	    float: left;  
-	  } 
 
 	body {
 		background: #fff;
@@ -238,14 +235,6 @@
 	}
 
 /* Image */
-	.img_right {
-		 display: block;
-		 margin-left: 4px; 
-		 margin-bottom: 4px;
-		 float: right;
-		 clear: right;
-		 width: 20%;
-		 }
 
 	.image {
 		display: inline-block;
