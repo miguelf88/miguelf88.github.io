@@ -14,4 +14,3 @@ To satisfy my thirst for knowledge and always wanting to learn more, this is a l
 • Cartography, Esri MOOC                                                                  
 • Do it Yourself Geo-Apps, Esri MOOC                                                                                             
 • Introduction to Regression Analysis in ArcGIS Pro, Esri
-
