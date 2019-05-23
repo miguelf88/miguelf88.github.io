@@ -11,6 +11,7 @@ To satisfy my thirst for knowledge and always wanting to learn more, this is a l
 • Microsoft Excel - Excel from Beginner to Advanced, Udemy                                                                   
 • Complete Python Bootcamp, Udemy                                                                                             
 • Python for Data Science and Machine Learning, Udemy
+
 • Cartography, Esri MOOC                                                                  
 • Do it Yourself Geo-Apps, Esri MOOC                                                                                             
 • Introduction to Regression Analysis in ArcGIS Pro, Esri
