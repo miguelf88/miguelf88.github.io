@@ -10,18 +10,15 @@ hide: true
 <link rel="stylesheet" href="styles.css">
 
 <div id='container'>
-   <img class="img_right" src="/images/label_class_1_resize.jpg" alt=""/>
-   <br>
-   <img class="img_right" src="/images/label_class_2_resize.jpg" alt=""/>  
+  
    <p class="p_left">
-    This is a web map I made for the Downtown Greensboro organization. They operated a holiday trolley during the Christmas
-    season and asked PART if we could help design it. PART received the turn-by-turn directions from Downtown Greensboro and we drew
-    the route in Remix. From there, I exported it out and brought it into ArcGIS Pro. Since it was a fairly simple map, I wanted
-    to spice it up a bit. I drew the candy cane symbol in Adobe Illustrator, saved it as an SVG file, and loaded it into my GIS 
-    as a custom symbol. This was the first time I had used a custom symbol on a map and it worked just as it should. Another 
-    feature I had not used before was label classes. Using Arcade, Esri's expression language, I was able to select stops
-    on either side of the route and display them differently. The images show those custom expressions. TEST2
-   </p>   
+      PART received a request to plan a route for the Downtown Greensboro organization. They were wanting to operate a holiday
+      trolley during the Christmas season. PART received some general guidelines from Downtown Greensboro and
+      a route was drawn in <a href="https://www.remix.com/" target = "_blank">Remix</a> . From Remix, I exported the geometry to a
+      shapefile and brought it into ArcGIS Pro. I drew the candy cane symbol in Adobe Illustrator, saved it as an SVG file, and
+      loaded it into my GIS as a custom symbol. Using <a href="https://developers.arcgis.com/arcade/" target = "_blank">Arcade</a>,
+      Esri's expression language, I wrote a two functions to select stops along each side of the route and display them differently.
+   </p>
 </div>
     
 <center><iframe width="700" height="400" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" 
