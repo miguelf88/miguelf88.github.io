@@ -14,4 +14,7 @@ To satisfy my thirst for knowledge and always wanting to learn more, this is a l
 • Cartography, Esri MOOC                                                                  
 • Do it Yourself Geo-Apps, Esri MOOC                                                                                             
 • Introduction to Regression Analysis in ArcGIS Pro, Esri Web Course
+
 • Data Analysis with Pandas and Python, Udemy
+
+• Probability and Statistics for Business and Data Science, Udemy
