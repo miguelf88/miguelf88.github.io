@@ -2,7 +2,7 @@
 title: Presentations
 subtitle: 
 layout: "page"
-icon: fas fa-user-tie
+icon: fa-user-tie
 order: 5
 ---
 
