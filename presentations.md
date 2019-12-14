@@ -1,0 +1,10 @@
+---
+title: Presentations
+subtitle: 
+layout: "page"
+icon: fas fa-user-tie
+order: 4
+---
+
+I have had the wonderful opportunity to speak and share my knowledge and experiences with others in my field at the following events:
+
