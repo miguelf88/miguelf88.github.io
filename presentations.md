@@ -12,8 +12,10 @@ I have had the wonderful opportunity to speak and share my knowledge and experie
     <br>
     Episode: Data for Mobility & the Importance of an Accurate Count, January 14, 2020
     <br>
-    Click <a href='https://www.youtube.com/watch?v=RamvbNY5J1g&feature=youtu.be'>here</a> for the video of the webinar
+    Click <a href='https://www.youtube.com/watch?v=RamvbNY5J1g&feature=youtu.be'>here</a> for the video of the webinar.
     
 - 2019 NC ArcGIS User's Group Conference
     <br>
     <i>Transit Planning Using Operations Dashboards</i>
+    <br>
+    Click <a href='miguelf88.github.io/images/NCAUG 2019 Conference Agenda Packet.pdf'>here</a> for the agenda from the conference.
