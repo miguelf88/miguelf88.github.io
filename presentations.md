@@ -18,4 +18,4 @@ I have had the wonderful opportunity to speak and share my knowledge and experie
     <br>
     <i>Transit Planning Using Operations Dashboards</i>
     <br>
-    Click <a href='miguelf88.github.io/images/NCAUG 2019 Conference Agenda Packet.pdf'>here</a> for the agenda from the conference.
+    Click <a href='/images/NCAUG 2019 Conference Agenda Packet.pdf'>here</a> for the agenda from the conference.
