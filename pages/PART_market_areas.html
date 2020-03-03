@@ -9,10 +9,10 @@ hide: true
 
 <p>
         For a transit agency, a rideshed represents the geographic location from which passengers could access their service. 
-        For PART, this includes park &amp; ride lots, transit terminals, or bus stops. The purpose of this project was to delineate
-        the market areas for the PART system, analyze demographics inside each rideshed, and collect origin-destination data
-        for each area. I wanted to create a series of dashboards to view the data and I embedded each dashboard into an ArcGIS
-        Story Map. The final product is at the bottom of this page.
+        For PART, this includes park &amp; ride lots, transit terminals, and bus stops. The purpose of the system analysis project
+        was to delineate the market area for the PART system, analyze demographic data inside each rideshed, and collect
+        origin-destination data for each rideshed. I wanted to create a series of dashboards to view the data and then embed each
+        dashboard into an ArcGIS Story Map. The final product is at the bottom of this page.
 </p>
 <p>
         The first step in this project was to identify the rideshed for each park &amp; lot. We had just completed a park &amp;
@@ -21,16 +21,18 @@ hide: true
         from Texas A&amp;M University and I plotted the home location of PART's passengers by which park &amp; ride facility they
         parked their car. The results were circular shapes around urban park &amp; ride facilities while more rural lots were fan
         shaped. What we learned from this is that because urban lots are more central, they attract passengers from a wider area
-        while the rural lots primarily had passengers coming from upstream. In the survery results there were very few examples
-        of passengers traveling upstream to access a park &amp; lot.
+        while the rural lots primarily had passengers coming from upstream. In the survery results, there were very few examples
+        of passengers traveling from downstream to access a park &amp; lot.
 </p>
 <p>
-        The next step was to analyze the demographics for the rideshed. For this, I located tables from the 2013-2017 5-year
-        estimates of the American Community Survey using 
-        <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">American Fact Finder</a>.
-        I brought the Census data into ArcGIS Pro for geoprocessing. I then created a dashboard to display the demographpic data.
-        This dashboard comes in handy when PART staff are writing grant applications and they need demographic figures for the
-        entire PART system or an individual route.
+        The next step was to analyze the demographic data for the rideshed. For this, I noted variables of interest from the
+        2014-2018 5-year estimates of the American Community Survey. Using the 
+        <a href="https://www.census.gov/data/developers/data-sets/acs-5year.html" target="_blank">Census API</a>
+        and a Jupyter Notebook, I requested the individual variables and transformed the data. I brought the Census data into
+        ArcGIS Pro for geoprocessing where I developed a short
+        <a href="https://github.com/miguelf88/system_analysis" target="_blank">Python script</a>.
+        I then created a web map and dashboard to display the demographpic data. This dashboard is used when PART staff
+        are writing grant applications and they need demographic figures for the entire PART system or an individual route.
 </p>
 <p>
         When route planning, it is important to look at origin-destination data so the planner knows where people are coming from
